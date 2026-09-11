@@ -72,6 +72,8 @@ The Date table acts as the time dimension, allowing campaign performance to be a
 
 This model supports the DAX time-intelligence calculations used throughout the dashboard.
 
+![Marketing Campaign Data Model](images/data_model.png)
+
 ---
 
 ## 🧮 DAX Measures
