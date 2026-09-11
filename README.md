@@ -141,6 +141,7 @@ Allows users to select different periods and dynamically update the entire dashb
 
 ---
 
+
 ## 💡 Analytical Capabilities
 
 The dashboard enables marketing teams to:
@@ -166,7 +167,28 @@ The dashboard enables marketing teams to:
 | PivotCharts | Interactive data visualization |
 
 ---
+## 🔍 Key Insights
 
+- **Marketing performance showed strong month-over-month growth:** Impressions increased by 9.28%, clicks by 9.23%, and ROI by 9.27%, while conversion rate and acquisition cost remained broadly stable.
+
+- **Geographic performance was highly consistent:** Miami generated the highest ROI at approximately $201.8K, but the difference between the highest and lowest-performing locations was only about 1.4%, suggesting limited variation in ROI by geography.
+
+- **Channel reach did not directly determine ROI:** Google Ads generated the highest impressions (185.01M), while Email produced the highest overall ROI ($167.88K) and click volume (18.49M).
+
+- **Channel leadership varied over time:** Although Email recorded the highest overall ROI, monthly analysis showed that the leading channel changed throughout the year, highlighting the importance of evaluating performance trends rather than relying only on annual aggregates.
+
+- **Campaign performance was relatively balanced:** Search generated the highest impressions (221.42M), while Influencer campaigns recorded the highest ROI ($201.29K), with relatively small differences between campaign types.
+
+- **Audience reach was evenly distributed:** Men aged 18–24 generated the highest impressions (221.23M), but differences between audience segments were small, indicating no single audience dominated campaign reach.
+
+## 💡 Recommendations
+
+- Evaluate marketing channels using ROI, conversion, clicks and acquisition cost alongside impressions rather than using reach alone.
+- Monitor channel performance over time before reallocating budget, as the highest-performing channel varies between months.
+- Maintain a balanced geographic strategy while investigating whether specific channel, campaign and audience combinations explain differences in performance.
+- Test campaign and audience combinations further to identify opportunities for improving conversion and ROI beyond overall reach.
+
+---
 ## 🧠 Skills Demonstrated
 
 This project demonstrates practical experience with:
